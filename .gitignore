@@ -1,0 +1,40 @@
+# Python
+/week4/django/*.pyc
+/week4/django/*~
+/week4/django/__pycache__
+/week5/django/*.pyc
+/week5/django/*~
+/week5/django/__pycache__
+
+# Env
+/week4/django/.env
+/week4/django/myvenv/
+/week4/django/venv/
+/week5/django/.env
+/week5/django/myvenv/
+/week5/django/venv/
+
+# Database
+/week4/django/db.sqlite3
+/week5/django/db.sqlite3
+
+# Static folder at project root
+/week4/django/static/
+/week5/django/static/
+
+# macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
